@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(51, 57, 86);
+}
+h1{
+    color:rgb(221, 221, 221);
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: rgb(221, 221, 221);
+    font-size: 1.7rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 370px;
+}
+p{
+    color:rgb(221, 221, 221);
+    font-size:1.7rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
